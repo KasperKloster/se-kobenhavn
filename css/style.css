@@ -13,8 +13,7 @@ h1, h2, h3, h4, h5, h6{
 
 #wrapper {
   background-color: #FFEDD9;
-  padding-top:20px;
-  padding-bottom:20px;
+  padding: 25px;  
 }
 
 .ml-120 {
